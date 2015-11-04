@@ -15,3 +15,5 @@
 ## 日常学习记录
 
 > [20150921-20150927 - 学习记录](https://github.com/daodaoliang/work-list/blob/master/study-list/2015-09-24.md)
+
+> [20151104-20151114 - 学习记录](https://github.com/daodaoliang/work-list/blob/master/study-list/2015-11-04.md)
