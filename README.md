@@ -24,6 +24,10 @@
 
 > [20151214-20151218 - 工作记录](https://github.com/daodaoliang/work-list/blob/master/work-list/2015-12-14.md)
 
+> [20151221-20151226 - 工作记录](https://github.com/daodaoliang/work-list/blob/master/work-list/2015-12-21.md)
+
+> [20151228-20151230 - 工作记录](https://github.com/daodaoliang/work-list/blob/master/work-list/2015-12-28.md)
+
 
 ## 日常学习记录
 
