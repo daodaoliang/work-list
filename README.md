@@ -32,10 +32,12 @@
 
 > [20160111-20160116 - 工作记录](https://github.com/daodaoliang/work-list/blob/master/work-list/2016-01-11.md)
 
+> [20160118-20160122 - 工作记录](https://github.com/daodaoliang/work-list/blob/master/work-list/2016-01-18.md)
+
 ## 日常学习记录
 
 > [20150921-20150927 - 学习记录](https://github.com/daodaoliang/work-list/blob/master/study-list/2015-09-24.md)
 
 > [20151104-20151114 - 学习记录](https://github.com/daodaoliang/work-list/blob/master/study-list/2015-11-04.md)
 
-> [20151116-20151126 - 学习记录](https://github.com/daodaoliang/work-list/blob/master/study-list/2015-11-16.md)
+> [20160118-20160125 - 学习记录](https://github.com/daodaoliang/work-list/blob/master/study-list/2016-01-19.md)
