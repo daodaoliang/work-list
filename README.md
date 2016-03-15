@@ -47,3 +47,8 @@
 > [20160118-20160310 - 学习记录](https://github.com/daodaoliang/work-list/blob/master/study-list/2016-01-19.md)
 
 > [20160311-还没结束 - 学习记录](https://github.com/daodaoliang/work-list/blob/master/study-list/2016-03-11.md)
+
+
+## 日常语言学习的词汇
+
+> [2016年03月15日](https://github.com/daodaoliang/work-list/blob/master/language-list/2016-03-15.md)
