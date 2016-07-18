@@ -48,6 +48,10 @@
 
 > [20160625-20160701 - 工作记录](https://github.com/daodaoliang/work-list/blob/master/work-list/2016-07-01.md)
 
+> [20160701-20160710 - 工作记录](https://github.com/daodaoliang/work-list/blob/master/work-list/2016-07-10.md)
+
+> [20160710-20160717 - 工作记录](https://github.com/daodaoliang/work-list/blob/master/work-list/2016-07-17.md)
+
 
 
 ## 日常语言学习的词汇
